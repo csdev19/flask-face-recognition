@@ -27,3 +27,4 @@ Read the documentation [here](https://flask.palletsprojects.com/en/2.0.x/install
 3. Run flask server
 
 ```python3 -m flask```
+```flask run```
