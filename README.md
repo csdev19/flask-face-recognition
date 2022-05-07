@@ -3,6 +3,12 @@ API to connect with my face recognition app
 
 ## Installation (Linux)
 
+In case you had problems
+
+```
+https://stackoverflow.com/questions/61528500/installing-venv-for-python3-in-wsl-ubuntu
+```
+
 Read the documentation [here](https://flask.palletsprojects.com/en/2.0.x/installation/)
 
 1. Create virtualenv
